@@ -1,0 +1,10 @@
+x1 = "Hello World" # string
+x2= 50  # integer
+x3 = 60.5  # float
+x4 = 3j  # complex
+x5= ["train", "for", "train"]  # list 
+x6 = ("train", "for", "train")  # tuple
+x7 = {"name": "Suraj", "age": 24} # dict
+x8 = {"train", "for", "train"} # set
+x9 = True  # bool
+x10 = b"Geeks" # binary
